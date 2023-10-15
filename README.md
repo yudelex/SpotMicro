@@ -1,5 +1,5 @@
 # SpotMicro
-![logo](https://github.com/yudelex/Spot-Micro/assets/77695579/5ff89b7f-741d-4695-9619-fe5cae73160a)
+![logo]![20220327_173122](https://github.com/yudelex/SpotMicro/assets/77695579/44148431-59c6-4c2a-8ac0-fd773a9437fa)
 Амбициозная цель проекта - создать робота-пса с искусственным интеллектом, способного самостоятельно научиться перемещаться в пространстве.
 
 Кратко об аппаратной части:
@@ -8,5 +8,4 @@
 3. 16-ти канальный драйвер сервомашинок - PCA9685.
 4. Гироскоп + акселерометр + магнитометр - MPU-9250.
 
-![hardware](https://github.com/yudelex/Spot-Micro/assets/77695579/106d1d38-eb0e-421c-906f-d522faaae211)
-
+![hardware]![hardware](https://github.com/yudelex/SpotMicro/assets/77695579/498ae097-2549-4aee-8413-39d3bbe2816a)
